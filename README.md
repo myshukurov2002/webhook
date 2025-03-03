@@ -16,5 +16,5 @@ Bu loyiha **Telegram botni webhook orqali Spring Boot bilan yaratish** uchun tay
 
 1️⃣ **Repository'ni klonlash**
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/myshukurov2002/webhook
+cd webhook
