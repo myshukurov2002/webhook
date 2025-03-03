@@ -1,0 +1,50 @@
+###
+
+# curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=https://yourdomain.com/webhook"
+POST https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/setWebhook?
+    url=https://e6cc-195-158-9-110.ngrok-free.app/webhook
+
+###
+
+# curl -X GET "https://api.telegram.org/botYOUR_BOT_TOKEN/getWebhookInfo"
+GET https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/getWebhookInfo
+
+###
+
+# curl -X GET "https://api.telegram.org/botYOUR_BOT_TOKEN/getWebhookInfo"
+GET https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/getMe
+
+
+###
+
+# curl -X GET "https://api.telegram.org/botYOUR_BOT_TOKEN/getWebhookInfo"
+GET https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/deleteWebhook
+#GET https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/getUpdates
+
+
+
+####
+# curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=https://new-ngrok-url/webhook"
+POST https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/setWebhook?
+    url=https://657e-195-158-9-110.ngrok-free.app
+
+###
+
+
+
+###]
+POST https://657e-195-158-9-110.ngrok-free.app/webhook
+
+
+# curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/getUpdates" -d '{"offset":1000000}'
+POST https://api.telegram.org/bot7453944633:AAER0LoSDtkat5WBe9BtQg-0nZRPgYIZYEY/getUpdates
+Content-Type: application/json
+
+{
+  "offset": 1000000
+}
+
+###
+
+###
+
