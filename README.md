@@ -7,8 +7,10 @@ Bu loyiha **Telegram botni webhook orqali Spring Boot bilan yaratish** uchun tay
 ## 📌 Talablar
 - **Java 17+** (`java -version` bilan tekshiring)
 - **Maven** (`mvn -version` bilan tekshiring)
-- **Ngrok** (`ngrok -v` bilan tekshiring)
+- **Ngrok** (`ngrok -v` bilan tekshiring, agar chiqmasa environment variabledan to'g'irlang)
+- **Ngrok** (ngrok ni ishlatib domen olib oling)
 - **Telegram Bot Token** ([@BotFather](https://t.me/BotFather) orqali oling)
+- **application.properties** (esdan chiqmasin)
 
 ---
 
